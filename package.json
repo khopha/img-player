@@ -1,6 +1,6 @@
 {
   "name": "@khopha/img-player",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A lightweight JavaScript library that renders image sequences with video-like controls.",
   "repository": "khopha/img-player",
   "license": "MIT",
