@@ -17,10 +17,14 @@ npm i @khopha/img-player
 
 Create an imgPlayer object by passing an HTML element and options, then call the play function to start playback. That's it!
 
+```html
+<div id="img-player"></div>
+```
+
 ```js
 import { imgPlayer } from '@khopha/img-player'
 
-const element = document.getElementById('foo')
+const element = document.getElementById('img-player')
 
 const images = [
   'path/to/image/1',
