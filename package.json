@@ -1,6 +1,6 @@
 {
   "name": "@khopha/img-player",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A lightweight JavaScript library that renders image sequences with video-like controls.",
   "repository": "khopha/img-player",
   "license": "MIT",
@@ -33,6 +33,7 @@
     "typescript": "^5.2.2",
     "typescript-eslint": "^8.0.0-alpha.41",
     "vite": "^5.3.1",
+    "vite-plugin-dts": "^4.0.0-beta.1",
     "vitest": "^2.0.2"
   }
 }
